@@ -8,7 +8,7 @@ Possibilita o cadastro e login de usuários no aplicativo.
 - **NestJS**
 - **TypeScript**
 - **TypeORM**
-- **PostgreSQL**
+- **MySQL**
 
 ## Instalação
 
