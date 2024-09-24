@@ -15,8 +15,8 @@ Possibilita o cadastro e login de usuários no aplicativo.
 1. Clone o repositório:
 
    ```bash
-   git clone https: https://github.com/henriquedaltrozo/app-pi_frontend.git
-   cd app-pi_frontend
+   git clone https: https://github.com/henriquedaltrozo/app-pi_backend.git
+   cd app-pi_backend
    ```
 
 2. Instale as dependências:
